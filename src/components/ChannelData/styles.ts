@@ -17,7 +17,7 @@ export const Messages = styled.div`
     flex-direction: column;
 
     padding: 20px 0;
-    max-height: calc(100vh - 46px - 68px);
+    max-height: calc(100vh - 48px - 68px);
 
     overflow-y: scroll;
     ::-webkit-scrollbar {
