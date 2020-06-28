@@ -37,7 +37,7 @@ export const Container = styled.div`
         }
     }
 
-    > div svg {
+    > .channelOptions svg {
         display: none
     }
 `;
