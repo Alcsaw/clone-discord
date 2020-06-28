@@ -25,7 +25,7 @@ export const Container = styled.div`
     }
 
     /* For Firefox */
-    scrollbar-width: 4px;
+    scrollbar-width: thin;
 
     scrollbar-color: var(--tertiary) var(--secondary);
     /* Duas cores válidas.
