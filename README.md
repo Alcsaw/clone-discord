@@ -1,3 +1,12 @@
+## Discord App Clone
+A copy of Discord frontend using React and Styled Components. I made this for fun with guidance of https://github.com/Rocketseat/youtube-clone-discord
+
+I made some improvements of the original version made by Guilherme Rodz:
+- Improvend CSS for Firefox browser;
+- TopMenu component - a component for rendering the top menu of the right corner;
+- animation effects for buttons;
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
